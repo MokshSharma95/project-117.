@@ -1,0 +1,28 @@
+body{
+    background-color: burlywood;
+} 
+
+h1{
+    color: aqua;
+}
+
+#show_sketch{
+    float: Right;
+}
+
+canvas{
+    border:5px solid yellowgreen;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 8s;
+    margin-top: 100px;
+    animation-iteration-count: infinite;
+}
+
+.your_sketh{
+font-size: 25px;
+}
+
+.confidence{
+    font-size: 25px;
+}
